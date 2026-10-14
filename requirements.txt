@@ -1,0 +1,2 @@
+strands-agents[otel]>=1.57,<2
+pytest>=8
